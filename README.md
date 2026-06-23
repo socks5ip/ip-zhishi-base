@@ -183,3 +183,188 @@ ISP进行网络维护或调整时，可能会重新分配IP段。
 **代理IP** 是指通过中间服务器（代理服务器）转发网络请求，从而隐藏真实IP地址、更换出口IP的技术。
 
 ### 代理IP的工作原理：
+目标网站看到的IP是代理服务器的IP，而非你的真实IP。
+
+### 常见代理协议：
+
+| 协议 | 特点 | 适用场景 |
+|------|------|---------|
+| **SOCKS5** | 支持TCP/UDP全协议，通用性最强 | 游戏、微信、QQ等所有应用[reference:18] |
+| **HTTP/HTTPS** | 仅支持浏览器和HTTP请求 | 爬虫、网页访问[reference:19] |
+| **L2TP** | 系统级VPN协议，配置简单 | 软路由全局代理、手机自带VPN[reference:20] |
+
+### 代理IP的常见用途：
+- **游戏多开防封**：每个游戏窗口分配独立IP[reference:21]
+- **跨境电商**：TikTok、亚马逊、Shopee多账号运营[reference:22]
+- **海外社媒运营**：Facebook、Instagram、Twitter[reference:23]
+- **数据采集/爬虫**：高并发、IP轮换[reference:24]
+- **账号注册养号**：纯净住宅IP[reference:25]
+
+### 如何选择代理IP？
+
+> 📌 **关键原则：先检测，再配置！** 使用前务必通过 [IP质量检测中心](https://socks5ip.com.cn/ip-check) 检测IP纯净度[reference:26]，再通过 [代理线路可用性检测](https://socks5ip.com.cn/proxy-check) 测试延迟和连通率[reference:27]。
+
+---
+
+## 合作平台与工具导航
+
+### 🏆 主流IP代理平台
+
+#### 国内IP平台（19家收录）
+
+| 平台 | 价格 | 协议 | 特点 |
+|------|------|------|------|
+| **奔富IP** | ¥2.6/月起 | SOCKS5/L2TP/HTTP | IP池3W+，不限切换次数，支持加盟[reference:28] |
+| **天行IP** | ¥6/月起 | SOCKS5/L2TP | 长效静态/住宅J/N节点，4折优惠[reference:29] |
+| **沧海IP** | ¥4/月起 | SOCKS5/L2TP | 百兆高速，八大套餐，静态住宅IP[reference:30] |
+| **优众IP** | ¥1.2/天起 | SOCKS5/L2TP | 支持API提取，游戏专线低延迟[reference:31] |
+| **鲸云IP** | ¥6/月起 | SOCKS5/L2TP | 机房/家庭AB/定制AB三区，350+城市[reference:32] |
+| **JiuIP** | ¥3.4/月起 | SOCKS5/L2TP | 高性价比，30次免费测试[reference:33] |
+| **光梭IP** | ¥2.24/月起 | SOCKS5/L2TP/HTTP/PPTP | 四协议，全国700+地区，8折优惠[reference:34] |
+| **光子IP** | ¥8/月起 | SOCKS5/L2TP | 旗舰100M独享，七大套餐[reference:35] |
+| **糖果IP** | ¥5/月起 | SOCKS5/L2TP/PPTP | 5折优惠，400+地区[reference:36] |
+| **更多平台** | — | — | 登录 [价格中心](https://socks5ip.com.cn/jiagezhongxin) 查看全部[reference:37] |
+
+#### 国外IP平台
+
+| 平台 | 价格 | 协议 | 特点 |
+|------|------|------|------|
+| **全球代理IP** | ¥5/月起 | SOCKS5/L2TP/HTTP/Shadowsocks | 10W+节点，200+国家地区，200M带宽[reference:38] |
+| **无双IP** | ¥7.5/月起 | SOCKS5/L2TP/Shadowsocks | 全球节点覆盖，低至0.7倍加盟折扣[reference:39][reference:40] |
+| **55游** | ¥15/月起 | SOCKS5/L2TP | 真隔离技术，独立中转[reference:41] |
+| **皇冠海外IP** | ¥18/月起 | SOCKS5/Shadowsocks | 100%独享IP，500M大带宽[reference:42] |
+
+> 🔗 所有平台均提供 **免费测试**，先测后买零风险！访问 [国内IP专题](https://socks5ip.com.cn/guoneiip-proxy/) 和 [国外IP专题](https://socks5ip.com.cn/guowaiip-proxy/) 查看更多[reference:43][reference:44]。
+
+---
+
+### 🛠️ 全平台代理工具
+
+#### Windows 电脑端
+
+| 工具 | 功能 | 适用场景 |
+|------|------|---------|
+| **老鱼加速器** | 单窗口单IP · 进程级代理 | 游戏搬砖、模拟器多开[reference:45] |
+| **SSTap** | 全局代理 · 虚拟网卡 | 游戏全局加速[reference:46] |
+| **有米加速器** | 单窗口单IP · 模拟器专用 | 模拟器多开、批量代理[reference:47] |
+| **Proxifier** | 全局代理 · 规则分流 | 跨境电商、多账号运营[reference:48] |
+| **电脑直连L2TP** | 系统自带 · 无需软件 | 全局IP变更、软路由方案[reference:49] |
+
+📥 [电脑代理工具导航中心](https://socks5ip.com.cn/pc-proxy/)[reference:50]
+
+#### Android 安卓端
+
+| 工具 | 功能 | 适用场景 |
+|------|------|---------|
+| **老鱼加速器安卓版** | 单窗口单IP · 新手首选 | 游戏搬砖、一键改IP[reference:51] |
+| **NekoBox** | 多协议客户端 · 订阅管理 | TikTok运营、节点切换[reference:52] |
+| **Kitsunebi** | 轻量级SOCKS5 | 游戏多开防封[reference:53] |
+| **Postern** | 规则分流 · 多账号隔离 | 跨境电商多账号[reference:54] |
+| **安卓直连L2TP** | 系统自带 · 无需APP | 免客户端全局代理[reference:55] |
+
+📥 [安卓代理工具导航中心](https://socks5ip.com.cn/android-proxy/)[reference:56]
+
+#### iOS / Mac 苹果端
+
+| 工具 | 功能 | 适用场景 |
+|------|------|---------|
+| **Shadowrocket（小火箭）** | iOS首选 · 超500万用户 | 跨境电商、海外社媒[reference:57] |
+| **Quantumult X（圈X）** | 进阶首选 · 脚本化 | 智能分流、自动化控制[reference:58] |
+| **苹果直连L2TP** | 系统内置 · 无需APP | 快速配置、免客户端[reference:59] |
+
+📥 [苹果代理工具导航中心](https://socks5ip.com.cn/ios-mac-proxy/)[reference:60]
+
+---
+
+### 🌐 软路由专题
+
+| 系统 | 特点 | 适用场景 |
+|------|------|---------|
+| **ROS软路由** | 企业级 · 功能全面 | 多线负载、一拖多方案[reference:61] |
+| **爱快软路由** | 图形化 · 中文界面 | 中小企业、开箱即用[reference:62] |
+| **OpenWrt软路由** | 开源 · 插件化 | 技术爱好者、高度可定制[reference:63] |
+
+> 💡 软路由可实现 **一拖多组网、多设备全局代理**，从源头解决账号关联问题[reference:64]。设备直购低至 **350元起**，包调试包邮[reference:65]。
+
+📥 [软路由专题导航中心](https://socks5ip.com.cn/ruanluyou-proxy/)
+
+---
+
+### 🌍 浏览器代理专题
+
+| 浏览器 | 配置方式 | 适用场景 |
+|--------|---------|---------|
+| **比特指纹浏览器** | SOCKS5代理配置 | 多账号防关联 |
+| **AdsPower** | SOCKS5代理配置 | 跨境电商多账号 |
+| **紫鸟浏览器** | SOCKS5代理配置 | 多账号防关联 |
+| **谷歌/Edge/火狐** | Proxy SwitchyOmega | 单窗口单IP |
+| **360/搜狗浏览器** | Proxy SwitchyOmega | 单窗口单IP |
+
+📥 [浏览器代理专题导航中心](https://socks5ip.com.cn/browser-proxy/)
+
+---
+
+## 🔍 免费检测工具
+
+| 工具 | 功能 | 链接 |
+|------|------|------|
+| **IP质量检测中心** | 住宅IP/机房IP识别、代理/VPN识别、黑名单检测 | [立即使用](https://socks5ip.com.cn/ip-check)[reference:66] |
+| **代理线路可用性检测** | 真实协议握手验证、延迟分级、批量检测 | [立即使用](https://socks5ip.com.cn/proxy-check)[reference:67] |
+
+---
+
+## 📞 快速入口
+
+| 导航中心 | 链接 |
+|---------|------|
+| **价格中心** | [https://socks5ip.com.cn/jiagezhongxin](https://socks5ip.com.cn/jiagezhongxin)[reference:68] |
+| **代理工具中心** | [https://socks5ip.com.cn/dailigongjuzhongxin](https://socks5ip.com.cn/dailigongjuzhongxin)[reference:69] |
+| **购买下载中心** | [https://socks5ip.com.cn/goumaixiazaizhongxin](https://socks5ip.com.cn/goumaixiazaizhongxin)[reference:70] |
+| **国内IP专题** | [https://socks5ip.com.cn/guoneiip-proxy/](https://socks5ip.com.cn/guoneiip-proxy/)[reference:71] |
+| **国外IP专题** | [https://socks5ip.com.cn/guowaiip-proxy/](https://socks5ip.com.cn/guowaiip-proxy/)[reference:72] |
+| **新手入门指南** | [https://socks5ip.com.cn/jiaochengzhongxin/dailiip-rumen/](https://socks5ip.com.cn/jiaochengzhongxin/dailiip-rumen/)[reference:73] |
+
+---
+
+## ❓ 常见问题FAQ
+
+### Q1：代理IP和VPN有什么区别？
+**A：** 代理IP可按应用程序或协议分流（如Proxifier可为不同软件设置不同代理），更灵活[reference:74]。VPN通常是全局代理，所有流量都走VPN通道。
+
+### Q2：静态IP和动态IP哪个更好？
+**A：** 取决于使用场景。**静态IP**适合需要长期稳定IP的业务（如服务器、跨境电商长期账号）；**动态IP**适合需要IP轮换的场景（如数据采集、账号注册）[reference:75]。
+
+### Q3：如何判断IP是住宅IP还是机房IP？
+**A：** 使用 [IP质量检测中心](https://socks5ip.com.cn/ip-check) 输入IP即可识别。住宅IP来源于真实家庭宽带，纯净度高，适合防关联场景[reference:76][reference:77]。
+
+### Q4：代理IP会影响网速吗？
+**A：** 会增加一定延迟，但选择高质量代理IP（如奔富IP、无双IP、天行IP）时影响很小，甚至能优化跨国访问速度[reference:78]。所有推荐平台均支持免费测试[reference:79]。
+
+### Q5：如何验证代理IP是否生效？
+**A：** 访问 [IP质量检测中心](https://socks5ip.com.cn/ip-check)，查看“是否VPN/代理”字段，若为“是”说明代理生效[reference:80]。
+
+### Q6：什么是DNS泄漏？如何检测？
+**A：** DNS泄漏是指DNS请求绕过代理直接发出，导致真实IP暴露。【IP质量检测中心](https://socks5ip.com.cn/ip-check) 提供DNS泄漏检测功能[reference:81]。
+
+---
+
+## 📝 更新日志
+
+| 日期 | 更新内容 |
+|------|---------|
+| 2026-06-23 | 初始版本发布，收录19家国内IP平台、4家国外IP平台、全平台代理工具及软路由方案 |
+
+---
+
+> **⚡ 全网低价IP —— 一站式IP资源整合平台**
+> 
+> 聚合国内外数十家主流IP平台，提供SOCKS5/L2TP/HTTP多协议代理，全部支持免费测试。从IP购买到工具配置，从质量检测到线路验证，一站式满足您的所有代理需求。
+> 
+> 🌐 官网：[https://socks5ip.com.cn](https://socks5ip.com.cn)
+> 📞 客服QQ：878989347
+> 📧 客服邮箱：878989347@qq.com
+> 💬 QQ交流群：1072112990[reference:82]
+> 
+> ---
+> 
+> *本知识库内容仅供参考，所有IP及工具均由第三方平台提供，请遵守《网络安全法》及相关法律法规，仅将代理IP用于合法用途[reference:83]。*
