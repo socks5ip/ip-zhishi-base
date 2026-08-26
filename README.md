@@ -378,3 +378,14 @@ ISP进行网络维护或调整时，可能会重新分配IP段。
 > ---
 > 
 > *本知识库内容仅供参考，所有IP及工具均由第三方平台提供，请遵守《网络安全法》及相关法律法规，仅将代理IP用于合法用途[83]。*
+
+
+## 更多资源
+
+- [awesome-proxy-providers](https://github.com/socks5ip/awesome-proxy-providers) — 代理IP服务商精选清单与横向对比
+- [全网低价IP GitHub 主页](https://github.com/socks5ip) — 全部仓库入口
+
+## 联系
+
+- 微信：**17720135827** ｜ QQ：**878989347**
+- 官网：[socks5ip.com.cn](https://socks5ip.com.cn)（20+ 代理IP服务商聚合对比，免费测试）
