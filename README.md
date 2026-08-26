@@ -1,10 +1,11 @@
-# 📚 IP知识库 · 从入门到精通
+# IP 网络知识库
 
-> 全网最全的IP知识百科全书 —— 无论你是刚接触代理IP的新手，还是游戏工作室、跨境电商的资深玩家，这里都有你需要的答案。
-
-[![知识库](https://img.shields.io/badge/IP知识库-完整版-brightgreen)](https://socks5ip.com.cn)
-[![SEO](https://img.shields.io/badge/SEO-优化-blue)](https://socks5ip.com.cn)
-[![免费测试](https://img.shields.io/badge/免费测试-100%25-orange)](https://socks5ip.com.cn)
+> 面向初学者和从业者的 IP 网络原理学习资料，涵盖 IPv4/IPv6、公网/内网、静态/动态 IP、代理协议等基础知识。
+> 
+> 相关仓库：
+> - [代理IP工具与资源导航](https://github.com/socks5ip/proxy-resource-hub) — 含 SOCKS5 连通性检测脚本
+> - [住宅 IP 选型与接入指南](https://github.com/socks5ip/residential-ip-guide-cn)
+> - [全网低价IP · 官网](https://socks5ip.com.cn)
 
 ---
 
@@ -347,6 +348,13 @@ ISP进行网络维护或调整时，可能会重新分配IP段。
 **A：** DNS泄漏是指DNS请求绕过代理直接发出，导致真实IP暴露。【IP质量检测中心](https://socks5ip.com.cn/ip-check) 提供DNS泄漏检测功能[81]。
 
 ---
+
+## 🔗 相关仓库与工具
+
+- [代理IP工具与资源导航](https://github.com/socks5ip/proxy-resource-hub) — 开源 SOCKS5 代理检测脚本与代理IP资源导航
+- [住宅 IP 选型与接入指南](https://github.com/socks5ip/residential-ip-guide-cn)
+- [IP 质量检测中心](https://socks5ip.com.cn/ip-check) — 在线检测 IP 纯净度、归属地、代理识别
+- [代理线路可用性检测](https://socks5ip.com.cn/proxy-check) — 在线检测代理延迟与连通率
 
 ## 📝 更新日志
 
