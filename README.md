@@ -3,6 +3,8 @@
 > 面向初学者和从业者的 IP 网络原理学习资料，涵盖 IPv4/IPv6、公网/内网、静态/动态 IP、代理协议等基础知识。
 > 
 > 相关仓库：
+> - [全网低价IP 官方导航站](https://socks5ip.github.io) — GitHub Pages 聚合入口
+> - [proxy-checker-cli](https://github.com/socks5ip/proxy-checker-cli) — 跨平台代理检测命令行工具
 > - [代理IP工具与资源导航](https://github.com/socks5ip/proxy-resource-hub) — 含 SOCKS5 连通性检测脚本
 > - [住宅 IP 选型与接入指南](https://github.com/socks5ip/residential-ip-guide-cn)
 > - [全网低价IP · 官网](https://socks5ip.com.cn)
