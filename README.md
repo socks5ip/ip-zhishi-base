@@ -357,6 +357,7 @@ ISP进行网络维护或调整时，可能会重新分配IP段。
 - [住宅 IP 选型与接入指南](https://github.com/socks5ip/residential-ip-guide-cn)
 - [IP 质量检测中心](https://socks5ip.com.cn/ip-check) — 在线检测 IP 纯净度、归属地、代理识别
 - [代理线路可用性检测](https://socks5ip.com.cn/proxy-check) — 在线检测代理延迟与连通率
+- **代理IP价格数据集（24 家 · CC0-1.0 · DOI）**：https://doi.org/10.5281/zenodo.22801591 —— 可学术引用，始终指向最新版
 
 ## 📝 更新日志
 
